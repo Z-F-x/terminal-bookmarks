@@ -6,8 +6,8 @@ Copy content of terminal-bookmars.sh to your bash config file (have not tested t
 
 ## Usage
 ### Set bookmark at current directory
-NOTE: valid set options are 1 through 12
 ```bookmark set 1``` 
+NOTE: valid set options are 1 through 12
 
 ### Go to bookmark via command
 ```bookmark 1```
